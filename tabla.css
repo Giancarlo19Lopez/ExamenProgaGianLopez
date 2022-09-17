@@ -1,0 +1,13 @@
+table,
+th,
+tr {
+    border: solid black
+}
+
+.titulos {
+    background-color: skyblue;
+}
+
+.segundo {
+    background-color: rgb(194, 191, 191);
+}
